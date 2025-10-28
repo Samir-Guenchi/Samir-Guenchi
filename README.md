@@ -272,42 +272,85 @@ Soft Skills:
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
+
+<br/>
+
 ### 💡 Open for Opportunities
 
-I'm passionate about **AI research**, **open-source contributions**, and building impactful solutions. Whether you're interested in collaboration, research opportunities, hackathons, or just want to discuss the latest in AI/ML — feel free to reach out!
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=700&lines=Let's+Build+Something+Amazing!+%F0%9F%9A%80;AI+Research+%7C+Open+Source+%7C+Innovation+%F0%9F%92%A1;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG"/>
+
+<br/>
 
 <table>
 <tr>
 <td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/search.png" width="80" height="80" alt="Research"/>
 
 ### 🔬 Research
-Interested in NLP,<br/>
-RAG systems, and<br/>
-Arabic language processing
+Interested in **NLP**,<br/>
+**RAG systems**, and<br/>
+**Arabic language processing**
 
 </td>
 <td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/collaboration.png" width="80" height="80" alt="Collaboration"/>
 
 ### 🤝 Collaboration
 Open to contributing<br/>
-to open-source projects<br/>
-and innovative startups
+to **open-source projects**<br/>
+and **innovative startups**
 
 </td>
 <td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="80" height="80" alt="Opportunities"/>
 
 ### 🎯 Opportunities
-Seeking internships,<br/>
-research positions, and<br/>
-impactful projects
+Seeking **internships**,<br/>
+**research positions**, and<br/>
+**impactful projects**
 
 </td>
 </tr>
 </table>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guenchi-samir-34880223b)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Samir-Guenchi)
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+
+<br/>
+
+### 📬 Reach Out to Me
+
+<table>
+<tr>
+<td align="center">
+<a href="https://www.linkedin.com/in/guenchi-samir-34880223b">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+<br/>
+<sub><b>Connect Professionally</b></sub>
+</a>
+</td>
+<td align="center">
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+<br/>
+<sub><b>Send a Message</b></sub>
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/Samir-Guenchi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+<br/>
+<sub><b>Follow My Work</b></sub>
+</a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/💬_Let's_discuss-AI_•_ML_•_Innovation-2E9EF7?style=for-the-badge"/>
 
 </div>
 
@@ -316,19 +359,89 @@ impactful projects
 <div align="center">
 
 ### 💭 Daily Inspiration
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🐍 Contribution Activity
-![Snake animation](https://raw.githubusercontent.com/Samir-Guenchi/Samir-Guenchi/output/github-contribution-grid-snake-dark.svg)
+<table>
+<tr>
+<td align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in" alt="Quote"/>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+## 🐍 Contribution Snake - Eating My Contributions!
 
-**⭐️ From [Samir-Guenchi](https://github.com/Samir-Guenchi) | Crafted with 💙, ☕, and passion for innovation**
+<div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samir-Guenchi/Samir-Guenchi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samir-Guenchi/Samir-Guenchi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Samir-Guenchi/Samir-Guenchi/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
+### 🌟 Made with Passion & Innovation
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Made_with-Love-E91E63?style=for-the-badge&logo=heart&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Powered_by-Coffee-6F4E37?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Driven_by-Innovation-2E9EF7?style=for-the-badge&logo=rocket&logoColor=white"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+**⭐️ From [Samir-Guenchi](https://github.com/Samir-Guenchi)**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
+
+<br/>
 
 *"The best way to predict the future is to invent it." - Alan Kay*
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Samir-Guenchi.Samir-Guenchi)
+<br/>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://komarev.com/ghpvc/?username=Samir-Guenchi&style=for-the-badge&color=2e9ef7&label=Profile+Views" alt="Profile views"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/github/followers/Samir-Guenchi?style=for-the-badge&color=2e9ef7&logo=github&label=Followers" alt="Followers"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/github/stars/Samir-Guenchi?style=for-the-badge&color=2e9ef7&logo=github&label=Total+Stars" alt="Stars"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 💼 Let's Build Something Amazing Together!
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+
+**🚀 Always Open to New Opportunities & Collaborations**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Thank+you+for+visiting!+%F0%9F%91%8B;Let's+connect+and+innovate!+%F0%9F%92%A1;Open+to+collaborations+%F0%9F%A4%9D;Building+the+future+with+AI+%F0%9F%A4%96" alt="Typing SVG"/>
 
 </div>
