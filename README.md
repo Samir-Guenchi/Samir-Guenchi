@@ -92,13 +92,19 @@ class SamirGuenchi:
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Samir-Guenchi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Samir-Guenchi&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" />
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Samir-Guenchi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9" alt="GitHub Stats" />
+  
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Samir-Guenchi&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" alt="GitHub Streak" />
+  
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samir-Guenchi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Samir-Guenchi&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF" />
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samir-Guenchi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9" alt="Top Languages" />
+  
+  <img width="49%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=Samir-Guenchi&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF" alt="Contribution Graph" />
+  
 </div>
 
 <div align="center">
@@ -119,26 +125,18 @@ class SamirGuenchi:
 
 ### 🤖 AI & Machine Learning
 
-<a href="https://github.com/Samir-Guenchi/Ministry-Regulation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samir-Guenchi&repo=Ministry-Regulation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9" />
-</a>
+[![Ministry Regulation](https://github-readme-stats.vercel.app/api/pin/?username=Samir-Guenchi&repo=Ministry-Regulation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9)](https://github.com/Samir-Guenchi/Ministry-Regulation)
 
-<a href="https://github.com/Samir-Guenchi/BUPA-Liver-Disorder-Analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samir-Guenchi&repo=BUPA-Liver-Disorder-Analysis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9" />
-</a>
+[![BUPA Liver Disorder Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Samir-Guenchi&repo=BUPA-Liver-Disorder-Analysis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9)](https://github.com/Samir-Guenchi/BUPA-Liver-Disorder-Analysis)
 
 </td>
 <td width="50%">
 
 ### 📱 Mobile & Algorithms
 
-<a href="https://github.com/Samir-Guenchi/Qr_Analyzer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samir-Guenchi&repo=Qr_Analyzer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9" />
-</a>
+[![Qr Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=Samir-Guenchi&repo=Qr_Analyzer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9)](https://github.com/Samir-Guenchi/Qr_Analyzer)
 
-<a href="https://github.com/Samir-Guenchi/Search_Algo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samir-Guenchi&repo=Search_Algo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9" />
-</a>
+[![Search Algo](https://github-readme-stats.vercel.app/api/pin/?username=Samir-Guenchi&repo=Search_Algo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9)](https://github.com/Samir-Guenchi/Search_Algo)
 
 </td>
 </tr>
@@ -245,7 +243,7 @@ Soft Skills:
 
 <div align="center">
   
-[![Samir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samir-Guenchi&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF)](https://github.com/Samir-Guenchi)
+![Samir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samir-Guenchi&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF)
 
 </div>
 
