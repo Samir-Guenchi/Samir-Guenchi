@@ -1,164 +1,78 @@
-<div align="center">
-  
 # Samir Guenchi
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=AI+Engineer+%7C+NLP+Specialist+%7C+Olympiad+Coach)](https://github.com/Samir-Guenchi)
+Building NLP systems for the 400M+ Arabic speakers who deserve better language tools.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guenchi-samir)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samir.guenchi@ensia.edu.dz)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/guenchisamir)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Guenchi_Samir_ia)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Samir-Guenchi&style=flat-square&color=0969da)
-![Followers](https://img.shields.io/github/followers/Samir-Guenchi?style=flat-square&color=0969da)
-
-</div>
+Currently: RAG architecture for Arabic Q&A • Training competitive programmers • CS at ENSIA
 
 ---
 
-## About
+## What I'm Building
 
-Computer Science student at **ENSIA** (Algeria's National School of AI) focused on building AI solutions for Arabic-speaking communities. I coach students for the **Algerian Olympiad in Informatics** and develop production-ready NLP systems.
+**Arabic NLP that actually works**  
+Most language models treat Arabic as an afterthought. I'm building RAG systems, tokenizers, and Q&A pipelines specifically designed for RTL languages and Arabic morphology.
 
-**Current Focus:** Arabic Q&A systems using RAG architecture — making my language accessible to modern AI tools.
+**Production ML, not just notebooks**  
+From medical diagnosis pipelines to security-focused mobile apps, I focus on systems that ship—with proper evaluation, reproducible research, and real impact.
 
----
-
-## Technical Skills
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-### Mobile & Tools
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-</div>
+**Algorithms education**  
+Coach for Algeria's national programming olympiad. Turns out teaching is the best way to truly understand complexity theory.
 
 ---
 
-## Featured Projects
+## Tech Stack
 
-<table>
-<tr>
-<td width="50%">
-
-### Ministry Regulation
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Samir-Guenchi/Ministry-Regulation)
-
-Arabic Q&A system built with RAG architecture. Makes government regulations searchable using natural language queries.
-
-`Python` `NLP` `RAG` `LangChain`
-
-</td>
-<td width="50%">
-
-### BUPA Liver Analysis
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Samir-Guenchi/BUPA-Liver-Disorder-Analysis)
-
-End-to-end ML pipeline for medical diagnosis with reproducible research methodology and proper model evaluation.
-
-`Python` `scikit-learn` `Data Science`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### QR Analyzer
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Samir-Guenchi/Qr_Analyzer)
-
-Security-focused mobile app that uses ML to detect malicious QR codes before scanning, protecting users from phishing.
-
-`Flutter` `Dart` `Machine Learning`
-
-</td>
-<td width="50%">
-
-### Search Algorithms
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Samir-Guenchi/Search_Algo)
-
-Interactive visualizations of AI search algorithms. Teaching tool used with Olympiad students.
-
-`Python` `Algorithms` `Visualization`
-
-</td>
-</tr>
-</table>
+**Core:** Python • C++ • TensorFlow • scikit-learn • Hugging Face  
+**NLP:** LangChain • RAG • Tokenization • Arabic morphology  
+**Mobile:** Flutter • Dart  
+**Tools:** Linux • Git • LaTeX • Jupyter
 
 ---
 
-## Experience & Leadership
+## Selected Work
 
-| Role | Organization | Description |
-|------|--------------|-------------|
-| ![Coach](https://img.shields.io/badge/Coach-FF6B6B?style=flat-square) | Algerian Olympiad in Informatics | Training national candidates in algorithms and competitive programming |
-| ![Member](https://img.shields.io/badge/Member-4ECDC4?style=flat-square) | ENSIA-AI Research Club | Contributing to AI research initiatives and projects |
-| ![Participant](https://img.shields.io/badge/Participant-45B7D1?style=flat-square) | EBEC Competition | European BEST Engineering Competition participant |
-| ![Student](https://img.shields.io/badge/Student-96CEB4?style=flat-square) | ENSIA | Computer Science with AI & Software Engineering focus |
+### [Ministry Regulation](https://github.com/Samir-Guenchi/Ministry-Regulation)
+RAG-powered Q&A system for Arabic government documents. Natural language search instead of ctrl+F through 500-page PDFs.  
+`Python` • `LangChain` • `Arabic NLP`
 
----
+### [QR Analyzer](https://github.com/Samir-Guenchi/Qr_Analyzer)
+Flutter app with ML-based phishing detection. Analyzes QR codes before you scan them, not after you're compromised.  
+`Flutter` • `ML` • `Security`
 
-## Languages
+### [BUPA Liver Analysis](https://github.com/Samir-Guenchi/BUPA-Liver-Disorder-Analysis)
+End-to-end ML pipeline for medical diagnosis. Focused on reproducibility and proper cross-validation—because healthcare predictions need more than 0.95 accuracy on a test set.  
+`Python` • `scikit-learn` • `Medical ML`
 
-| Language | Proficiency |
-|----------|-------------|
-| Arabic | Native |
-| English | Professional Working |
-| French | Professional Working |
+### [Search Algorithms Visualizer](https://github.com/Samir-Guenchi/Search_Algo)
+Interactive demos of pathfinding algorithms. Built this for my olympiad students who learn better by seeing, not memorizing pseudocode.  
+`Python` • `Algorithms` • `Teaching`
 
----
-
-## GitHub Analytics
-
-<div align="center">
-  
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Samir-Guenchi&show_icons=true&theme=graywhite&hide_border=true&count_private=true&icon_color=0969da&title_color=0969da" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samir-Guenchi&layout=compact&theme=graywhite&hide_border=true&title_color=0969da" />
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Samir-Guenchi&theme=graywhite&hide_border=true&ring=0969da&fire=0969da&currStreakLabel=0969da" />
-
-</div>
+More at [github.com/Samir-Guenchi](https://github.com/Samir-Guenchi?tab=repositories)
 
 ---
 
-## Open for Opportunities
+## Why This Matters
 
-<div align="center">
+There are 400 million Arabic speakers online. Most NLP tools were built for English, then poorly adapted. I'm working on infrastructure that treats Arabic as a first-class citizen—proper tokenization for agglutinative morphology, embeddings that understand context in RTL text, RAG systems that handle diacritics.
 
-| Research Collaborations | Open Source | Career |
-|:-----------------------:|:-----------:|:------:|
-| Arabic NLP projects | AI/ML contributions | Internships in AI Engineering |
-| RAG system development | Algorithm implementations | Research positions |
+Also: competitive programming teaches you to think in constraints. That mindset carries over when you're optimizing transformer inference or designing algorithms that scale.
 
-</div>
+---
+
+## Currently
+
+- Building Arabic RAG systems at ENSIA (Algeria's National School of AI)
+- Training national olympiad candidates in algorithms
+- Contributing to Arabic NLP tooling
+- Looking for: Research collaborations, internships in ML/NLP, open-source opportunities
+
+---
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/guenchi-samir) • [Email](mailto:samir.guenchi@ensia.edu.dz) • [Kaggle](https://kaggle.com/guenchisamir) • [Codeforces](https://codeforces.com/profile/Guenchi_Samir_ia)
 
 ---
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guenchi-samir)
-[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samir.guenchi@ensia.edu.dz)
-
----
-
-*"The best way to predict the future is to invent it."* — Alan Kay
-
-**Building from Algeria**
-
+<img src="https://github-readme-stats.vercel.app/api?username=Samir-Guenchi&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=333" />
 </div>
