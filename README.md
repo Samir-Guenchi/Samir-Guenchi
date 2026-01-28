@@ -1,7 +1,7 @@
 # Samir Guenchi
 
 **AI Engineer & Arabic NLP Researcher**  
-ENSIA - École Nationale Supérieure d'Informatique et d'Analyse des Systèmes  
+ENSIA - École Nationale Supérieure d'Intelligence artificielle
 Algeria
 
 ---
