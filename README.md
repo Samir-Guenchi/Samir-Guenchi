@@ -180,7 +180,8 @@ Architected and deployed highly scalable platforms currently operating in produc
 - LinkedIn: [linkedin.com/in/guenchi-samir](https://linkedin.com/in/guenchi-samir)
 - Email: samir.guenchi@ensia.edu.dz
 - GitHub: [github.com/Samir-Guenchi](https://github.com/Samir-Guenchi)
-- Phone : +213780066761
+- Phone : +213780066761.
+- 
 **Competitive Programming:**
 - Kaggle: [kaggle.com/guenchisamir](https://kaggle.com/guenchisamir)
 - Codeforces: [codeforces.com/profile/Guenchi_Samir_ia](https://codeforces.com/profile/Guenchi_Samir_ia)
