@@ -1,41 +1,40 @@
 # Samir Guenchi
 
-**AI Engineer & Arabic NLP Researcher**  
-ENSIA - École Nationale Supérieure d'Intelligence artificielle
-Algeria
+**Deep Learning Researcher & AI Systems Engineer** ENSIA - National Higher School of Artificial Intelligence  
+Algiers, Algeria
 
 ---
 
 ## About
 
-Building production-grade NLP systems for 400M+ Arabic speakers. Focused on RAG architectures, competitive programming, and ML security. Currently researching Arabic morphological tokenization and training Algeria's national programming olympiad team.
+Architecting research-grade deep learning models, distributed optimization algorithms, and scalable AI backend systems. Currently focused on bounded gradient quantization, epistemic uncertainty estimation, and deploying production-ready ML infrastructure. I bridge the gap between rigorous mathematical theory and high-throughput PyTorch implementations.
 
 ```python
 class SamirGuenchi:
     def __init__(self):
-        self.role = "AI Engineer & Arabic NLP Researcher"
-        self.institution = "ENSIA"
-        self.location = "Algeria"
+        self.role = "Deep Learning Researcher & AI Systems Engineer"
+        self.institution = "ENSIA (Class of 2027)"
+        self.location = "Algiers, Algeria"
+        self.id = 194
         self.focus = [
-            "Arabic NLP",
-            "RAG Systems", 
-            "Competitive Programming",
-            "ML Security"
+            "Distributed Optimization (DDP)",
+            "Epistemic Uncertainty Estimation", 
+            "Multi-Agent LLM Orchestration",
+            "High-Throughput Backend Architecture"
         ]
         
     def current_work(self):
         return {
-            "research": "Arabic RAG architectures & morphological tokenization",
-            "coaching": "National Programming Olympiad - Algeria",
-            "building": "Production-grade NLP systems for RTL languages",
-            "learning": "Advanced AI/ML at ENSIA",
-            "security": "ML-powered threat detection systems"
+            "research": ["MoQAdam Optimizer", "QuantumPath Neural Networks (QPNN-v2)"],
+            "applied_ai": "SPIRAL-RAG v3 & Clinical Sequence Modeling (SleepStagerNetV4)",
+            "systems": "AI-Automated E-commerce Ecosystems (Node.js/TypeScript)",
+            "leadership": "Coach for the Algerian Olympiad in Informatics (AOI)"
         }
     
     def philosophy(self):
-        return "Code that ships > Code that sits in notebooks"
-```
+        return "Theories that scale > Math that stays on paper."
 
+```
 ---
 
 ## Technical Skills
@@ -77,114 +76,73 @@ class SamirGuenchi:
 
 ---
 
-## Projects
+## Research Manuscripts (In Preparation)
 
-### Ministry Regulation RAG System
-**Repository:** [Ministry-Regulation](https://github.com/Samir-Guenchi/Ministry-Regulation)
+### [MoQAdam: Moment-Normalized Quantization Adam](https://www.google.com/search?q=https://github.com/Samir-Guenchi/moqadam)
 
-Production NLP system for Arabic government documents. Implements semantic search over 500+ page PDFs using RAG architecture.
+A novel distributed PyTorch optimizer replacing AdamW for bandwidth-bottlenecked Multi-GPU (DDP) training.
 
-**Technical Implementation:**
-- Python + LangChain framework
-- Custom Arabic embeddings and tokenization
-- Vector databases for semantic retrieval
-- RTL text processing pipeline
+* Formulated **Variance-Normalized Quantization** and **SNR-Gated Residual Feedback**.
+* Engineered Decoupled Moment Updates to preserve unbiased variance estimation, reducing state memory footprint to 2.5P.
 
-**Problem Solved:** Transformed information retrieval from manual PDF searching to natural language queries in Arabic.
+### [QPNN-v2: QuantumPath Neural Networks](https://www.google.com/search?q=https://github.com/Samir-Guenchi/qpnn-v2)
 
-**Key Innovation:** First-class Arabic language support with proper morphological handling, not post-hoc English translation.
+A quantum-inspired neural network architecture for principled epistemic uncertainty estimation and OOD detection.
 
----
-
-### QR Analyzer
-**Repository:** [Qr_Analyzer](https://github.com/Samir-Guenchi/Qr_Analyzer)
-
-Mobile security application with ML-based phishing detection. Analyzes QR codes before execution to prevent attacks.
-
-**Technical Implementation:**
-- Flutter + Dart cross-platform development
-- ML classification models for threat detection
-- Real-time pattern recognition
-- Security-first architecture
-
-**Problem Solved:** Proactive threat detection before user compromise, not reactive damage control.
-
-**Key Innovation:** Pre-scan analysis using machine learning to identify malicious patterns.
+* Engineered **Complex Path Representations (CPR)** and **Orthogonal Interference Mixing**.
+* Architected to reduce parameter count by ~70% (12.6M vs. 44.8M) compared to deep ensembles while targeting improved ECE calibration metrics.
 
 ---
 
-### BUPA Liver Disorder Analysis
-**Repository:** [BUPA-Liver-Disorder-Analysis](https://github.com/Samir-Guenchi/BUPA-Liver-Disorder-Analysis)
+## Applied Research & Production Systems
 
-End-to-end machine learning pipeline for medical diagnosis. Research-grade methodology with clinical application focus.
+### [SleepStagerNetV4: Single-Channel EEG Classification](https://www.google.com/search?q=https://github.com/Samir-Guenchi/SleepStagerNetV4)
 
-**Technical Implementation:**
-- scikit-learn + pandas for data processing
-- Statistical validation protocols
-- Cross-validation and feature engineering
-- Reproducible research methodology
+GPU-accelerated clinical sequence modeling pipeline aiming to approach expert inter-rater agreement (targeting Cohen's κ ≥ 0.81).
 
-**Problem Solved:** Healthcare AI requires reproducibility and rigorous validation, not just high accuracy scores.
+* Designed a **Differentiable STFT + Cross-Attention** fusion module to gate spectral evidence against time-domain embeddings.
+* Integrates Supervised Contrastive Loss (SupCon) and FlexMatch adaptive pseudo-labeling.
 
-**Key Innovation:** Production-ready medical ML with proper statistical rigor and clinical-grade evaluation.
+### [SPIRAL-RAG v3 — Multilingual Legal QA System](https://github.com/Samir-Guenchi/Ministry-Regulation)
 
----
+An experimental RAG pipeline processing 8,600+ Algerian legal documents across 4 languages with Semantic Authority Classification.
 
-### Search Algorithm Visualizer
-**Repository:** [Search_Algo](https://github.com/Samir-Guenchi/Search_Algo)
+* Implemented a **Multi-Agent Legal Debate** reasoning pipeline using Llama-3.3 and Gemini 2.0 Flash to synthesize complex regulatory interpretations.
 
-Interactive educational tool for algorithm visualization. Built for competitive programming students.
+### [Amal — LLM Orchestrator & Support System](https://www.google.com/search?q=https://github.com/Samir-Guenchi/Amal)
 
-**Technical Implementation:**
-- Python with visualization libraries
-- Interactive UI/UX design
-- Pathfinding algorithms (A*, Dijkstra, BFS, DFS)
-- Real-time step-by-step execution
+Cross-platform AI ecosystem (React, React Native, FastAPI) for multilingual drug addiction awareness.
 
-**Problem Solved:** Abstract algorithmic concepts become concrete through visual demonstration.
+* Architected an LLM orchestrator utilizing **MarBERT** for intent classification and OOD detection.
+* Deployed a scientific RAG (ChromaDB) and an empathetic support model (**Qwen2.5-7B + LoRA/PEFT**).
 
-**Key Innovation:** Teaching-optimized design based on how competitive programmers actually learn.
+### Production E-Commerce Ecosystems
+
+Architected and deployed highly scalable platforms currently operating in production for active retail businesses.
+
+* **Automation Suite:** Engineered NLP sentiment analysis for product trends, LLM customer auto-replies, and 1-click omnichannel social media publishing.
+* **[Mahal Dahaoui](https://github.com/Samir-Guenchi/dahaoui_boutique):** Live marketplace (MongoDB/React) with real-time state synchronization via Socket.IO.
+* **[Djellaba El Basma](https://el-basma-website.vercel.app):** 3-tier system (React/Node/React Native) scaling to 170+ deployments.
 
 ---
 
-**View all projects:** [github.com/Samir-Guenchi](https://github.com/Samir-Guenchi?tab=repositories)
 
----
+## Leadership & Competitions
 
-## Research Focus
+* **Coach, Algerian Olympiad in Informatics (AOI):** Mentoring elite national competitors in advanced data structures, graph theory, and dynamic programming (2025).
+* **Competitive Programming:** 300+ advanced algorithmic problems solved across Codeforces and LeetCode.
+* **Hackathons & Datathons:** * 2023 Data Science Datathon (Predictive modeling for Yassir & Société Générale).
+* ETCODE 2023 & Mobile Ideathon.
+* Covid-19 Rapid Prototyping Workshop (ENSIA & IPSIL).
 
-### The Arabic NLP Challenge
-
-**Context:** 400 million Arabic speakers online. Most NLP infrastructure built for English, then poorly adapted.
-
-**Current Work:**
-- Proper tokenization for agglutinative morphology
-- Embeddings that understand RTL context
-- RAG systems with native diacritic handling
-- Models trained on Arabic, not translated English
-
-**Goal:** Infrastructure that treats Arabic as a first-class citizen in NLP systems.
-
-### Competitive Programming Methodology
-
-**Approach:** Constraint-based thinking from competitive programming applies directly to production ML systems.
-
-**Applications:**
-- Transformer inference optimization
-- Algorithm design for scale
-- System building under real-world limitations
-- Performance-critical code development
-
-**Philosophy:** Code that ships beats code that sits in notebooks.
-
----
+----
 
 ## Education
 
-**Institution:** ENSIA (École Nationale Supérieure d'Informatique et d'Analyse des Systèmes)  
+**Institution:** ENSIA
 **Program:** Computer Science & AI Engineering  
 **Location:** Algeria  
-**Focus Areas:** Arabic NLP, Machine Learning, Algorithm Design
+**Focus Areas:** NLP, Machine Learning, Algorithm Design
 
 **Additional Role:** National Programming Olympiad Coach
 
@@ -192,6 +150,7 @@ Interactive educational tool for algorithm visualization. Built for competitive 
 
 ## Current Objectives
 
+**Seeking Research Internships** in well-resourced ML labs to access the computational clusters required to benchmark my ongoing algorithmic research (MoQAdam & QPNN-v2) and contribute to foundational ML systems.
 **Research:**
 - Arabic RAG architectures
 - Morphological tokenization systems
@@ -221,7 +180,7 @@ Interactive educational tool for algorithm visualization. Built for competitive 
 - LinkedIn: [linkedin.com/in/guenchi-samir](https://linkedin.com/in/guenchi-samir)
 - Email: samir.guenchi@ensia.edu.dz
 - GitHub: [github.com/Samir-Guenchi](https://github.com/Samir-Guenchi)
-
+- Phone : +213780066761
 **Competitive Programming:**
 - Kaggle: [kaggle.com/guenchisamir](https://kaggle.com/guenchisamir)
 - Codeforces: [codeforces.com/profile/Guenchi_Samir_ia](https://codeforces.com/profile/Guenchi_Samir_ia)
@@ -241,4 +200,4 @@ Interactive educational tool for algorithm visualization. Built for competitive 
 
 ---
 
-**Last Updated:** January 2025
+**Last Updated:** MAY 2026
